@@ -21,6 +21,13 @@ body {
   position: relative;
   top: 20%;
 }
+.StartPage img{
+  width: 140px;
+  height: 140px;
+  position: relative;
+  margin-top: 50px;
+  margin-bottom: 50px;
+}
 .circletag{
     width: 90px;
     height: 90px;
